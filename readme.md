@@ -23,3 +23,9 @@
     * python manage.py runserver
 3. Run Frontend server
     * npm start
+
+## Interview:
+https://calendar.google.com/calendar/u/0/r/week/2022/8/1
+https://www.google.com/url?q=https://us02web.zoom.us/j/83469098976?pwd%3DK09MbjVQd1FQMEQ0VlpaWElPRHRydz09&sa=D&source=calendar&usd=2&usg=AOvVaw2YTEwMz7SjmAjsqXRRtO2n
+
+370040
